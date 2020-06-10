@@ -1,0 +1,2 @@
+# JavaCodeWars
+Codewars Solutions
